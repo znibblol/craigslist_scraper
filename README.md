@@ -8,6 +8,7 @@ Craigslist Scraper CJ from Coding Garden tutorial
             * https://columbus.craigslist.org/search/sss?sort=date&query=korg
                 * /search/columbus/korg
             * https://columbus.cragislist.org/search/sss?sort=date&query=synth
+                * /search/columbus/synth
 * [ ] Dashboard view
     * [ ] Add search terms (tags)
     * [ ] View all results in a list
