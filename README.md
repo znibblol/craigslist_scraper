@@ -1,5 +1,8 @@
 # Cragislist PRO
 Craigslist Scraper CJ from Coding Garden tutorial
+
+37:50 https://www.youtube.com/watch?v=EvBeSAKT0aA
+
 ---
 
 * [ ] Scrape craigslist results
